@@ -1,1 +1,3 @@
-console.log("Hello emol");
+function sayHello() {
+  console.log("huello");
+}
