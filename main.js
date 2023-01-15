@@ -1,1 +1,3 @@
-console.log("Hello emol");
+function sayGoodbye() {
+  console.log("bye bye");
+}
